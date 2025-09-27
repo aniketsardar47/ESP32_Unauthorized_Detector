@@ -23,8 +23,8 @@
 #include <addons/TokenHelper.h>
 
 //Replace with your network credentials
-const char* ssid = "ABC123";
-const char* password = "aniketsardar";
+const char* ssid = "***";
+const char* password = "***";
 
 // Insert Firebase project API Key
 #define API_KEY ""
